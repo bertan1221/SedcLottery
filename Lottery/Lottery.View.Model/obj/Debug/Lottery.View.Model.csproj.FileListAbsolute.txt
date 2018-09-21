@@ -1,0 +1,12 @@
+c:\users\bertan\source\repos\Lottery\Lottery.View.Model\bin\Debug\Lottery.View.Model.dll
+c:\users\bertan\source\repos\Lottery\Lottery.View.Model\bin\Debug\Lottery.View.Model.pdb
+c:\users\bertan\source\repos\Lottery\Lottery.View.Model\obj\Debug\Lottery.View.Model.csproj.CoreCompileInputs.cache
+c:\users\bertan\source\repos\Lottery\Lottery.View.Model\obj\Debug\Lottery.View.Model.dll
+c:\users\bertan\source\repos\Lottery\Lottery.View.Model\obj\Debug\Lottery.View.Model.pdb
+c:\users\bertan\source\repos\Lottery\Lottery.View.Model\obj\Debug\Lottery.View.Model.csprojAssemblyReference.cache
+C:\Users\Bertan\Desktop\SEDCLottery\Lottery\Lottery.View.Model\bin\Debug\Lottery.View.Model.dll
+C:\Users\Bertan\Desktop\SEDCLottery\Lottery\Lottery.View.Model\bin\Debug\Lottery.View.Model.pdb
+C:\Users\Bertan\Desktop\SEDCLottery\Lottery\Lottery.View.Model\obj\Debug\Lottery.View.Model.csprojAssemblyReference.cache
+C:\Users\Bertan\Desktop\SEDCLottery\Lottery\Lottery.View.Model\obj\Debug\Lottery.View.Model.csproj.CoreCompileInputs.cache
+C:\Users\Bertan\Desktop\SEDCLottery\Lottery\Lottery.View.Model\obj\Debug\Lottery.View.Model.dll
+C:\Users\Bertan\Desktop\SEDCLottery\Lottery\Lottery.View.Model\obj\Debug\Lottery.View.Model.pdb

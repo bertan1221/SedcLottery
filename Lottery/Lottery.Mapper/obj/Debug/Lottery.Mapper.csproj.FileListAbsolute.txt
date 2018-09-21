@@ -1,0 +1,12 @@
+c:\users\bertan\source\repos\Lottery\Lottery.Mapper\bin\Debug\Lottery.Mapper.dll
+c:\users\bertan\source\repos\Lottery\Lottery.Mapper\bin\Debug\Lottery.Mapper.pdb
+c:\users\bertan\source\repos\Lottery\Lottery.Mapper\obj\Debug\Lottery.Mapper.csproj.CoreCompileInputs.cache
+c:\users\bertan\source\repos\Lottery\Lottery.Mapper\obj\Debug\Lottery.Mapper.dll
+c:\users\bertan\source\repos\Lottery\Lottery.Mapper\obj\Debug\Lottery.Mapper.pdb
+c:\users\bertan\source\repos\Lottery\Lottery.Mapper\obj\Debug\Lottery.Mapper.csprojAssemblyReference.cache
+C:\Users\Bertan\Desktop\SEDCLottery\Lottery\Lottery.Mapper\bin\Debug\Lottery.Mapper.dll
+C:\Users\Bertan\Desktop\SEDCLottery\Lottery\Lottery.Mapper\bin\Debug\Lottery.Mapper.pdb
+C:\Users\Bertan\Desktop\SEDCLottery\Lottery\Lottery.Mapper\obj\Debug\Lottery.Mapper.csprojAssemblyReference.cache
+C:\Users\Bertan\Desktop\SEDCLottery\Lottery\Lottery.Mapper\obj\Debug\Lottery.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Bertan\Desktop\SEDCLottery\Lottery\Lottery.Mapper\obj\Debug\Lottery.Mapper.dll
+C:\Users\Bertan\Desktop\SEDCLottery\Lottery\Lottery.Mapper\obj\Debug\Lottery.Mapper.pdb
