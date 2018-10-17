@@ -1,0 +1,14 @@
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Service\bin\Debug\netstandard2.0\Lottery.Service.deps.json
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Service\bin\Debug\netstandard2.0\Lottery.Service.dll
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Service\bin\Debug\netstandard2.0\Lottery.Service.pdb
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Service\bin\Debug\netstandard2.0\Lottery.Data.dll
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Service\bin\Debug\netstandard2.0\Lottery.Data.Model.dll
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Service\bin\Debug\netstandard2.0\Lottery.Data.Model.pdb
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Service\bin\Debug\netstandard2.0\Lottery.Data.pdb
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Service\obj\Debug\netstandard2.0\Lottery.Service.csprojAssemblyReference.cache
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Service\obj\Debug\netstandard2.0\Lottery.Service.csproj.CoreCompileInputs.cache
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Service\obj\Debug\netstandard2.0\Lottery.Service.AssemblyInfoInputs.cache
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Service\obj\Debug\netstandard2.0\Lottery.Service.AssemblyInfo.cs
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Service\obj\Debug\netstandard2.0\Lottery.Service.csproj.CopyComplete
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Service\obj\Debug\netstandard2.0\Lottery.Service.dll
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Service\obj\Debug\netstandard2.0\Lottery.Service.pdb

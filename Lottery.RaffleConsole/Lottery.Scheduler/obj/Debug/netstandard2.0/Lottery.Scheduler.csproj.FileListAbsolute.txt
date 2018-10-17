@@ -1,0 +1,16 @@
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Scheduler\bin\Debug\netstandard2.0\Lottery.Scheduler.deps.json
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Scheduler\bin\Debug\netstandard2.0\Lottery.Scheduler.dll
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Scheduler\bin\Debug\netstandard2.0\Lottery.Scheduler.pdb
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Scheduler\bin\Debug\netstandard2.0\Lottery.Data.dll
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Scheduler\bin\Debug\netstandard2.0\Lottery.Data.Model.dll
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Scheduler\bin\Debug\netstandard2.0\Lottery.Service.dll
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Scheduler\bin\Debug\netstandard2.0\Lottery.Service.pdb
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Scheduler\bin\Debug\netstandard2.0\Lottery.Data.Model.pdb
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Scheduler\bin\Debug\netstandard2.0\Lottery.Data.pdb
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Scheduler\obj\Debug\netstandard2.0\Lottery.Scheduler.csprojAssemblyReference.cache
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Scheduler\obj\Debug\netstandard2.0\Lottery.Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Scheduler\obj\Debug\netstandard2.0\Lottery.Scheduler.AssemblyInfoInputs.cache
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Scheduler\obj\Debug\netstandard2.0\Lottery.Scheduler.AssemblyInfo.cs
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Scheduler\obj\Debug\netstandard2.0\Lottery.Scheduler.csproj.CopyComplete
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Scheduler\obj\Debug\netstandard2.0\Lottery.Scheduler.dll
+C:\Users\Bertan\Desktop\Seavus Projects\SEDCLottery\Lottery.RaffleConsole\Lottery.Scheduler\obj\Debug\netstandard2.0\Lottery.Scheduler.pdb
